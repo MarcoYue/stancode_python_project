@@ -1,4 +1,4 @@
-# stancode_python_project
+# Stancode_Python_Project
 Hello there, there're my assignment/project from stancode SC001 & SC101.\
 If you are taking a related course now, I hope you won't copy my code. lol\
 There're 4 demo videos : breakout, standoShop, babynames, boggle.
